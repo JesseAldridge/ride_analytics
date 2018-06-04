@@ -7,4 +7,4 @@ Open the next email
 Select all, copy/paste append to existing text file
 Repeat for each email
 Save resulting text file to lyft.txt in this directory
-Run lyft.py to parse the output
+Run lyft.py to parse the lyft.txt
